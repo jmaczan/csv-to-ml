@@ -2,6 +2,8 @@
 
 Upload a CSV file and get an ML model
 
+<p align="center"><img width="400" src="image.png" alt="CSV-to-ML"></p>
+
 ## Setup
 
 1. Get an OpenAI API Key
