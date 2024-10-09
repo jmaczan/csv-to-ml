@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Maczan"
+  given-names: "Jędrzej Paweł"
+  orcid: "https://orcid.org/0000-0003-1741-6064"
+title: "csv-to-ml: Upload a CSV file and get an ML model"
+date-released: 2024-04-04
+url: "https://github.com/jmaczan/csv-to-ml"
