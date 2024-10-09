@@ -45,6 +45,19 @@ npm run dev
 npm run start
 ```
 
+## Cite
+If you use this software in your research, please use the following citation:
+
+```bibtex
+@misc{Maczan_csvtoml_2024,
+  title = "csv-to-ml: Upload a CSV file and get an ML model",
+  author = "{Maczan, Jędrzej Paweł}",
+  howpublished = "\url{https://github.com/jmaczan/csv-to-ml}",
+  year = 2024,
+  publisher = {GitHub}
+}
+```
+
 ## License
 
 GPLv3
